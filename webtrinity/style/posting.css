@@ -1,0 +1,47 @@
+table
+{
+	text-align:center;
+	border:0px;
+	width: 75%;
+    margin: auto;
+	margin-bottom:10px;
+	border-collapse: collapse;
+}
+tr
+{
+	text-align:center;
+}
+td
+{
+	text-align:center;
+	height:36px;
+}
+td.boardMenu
+{
+	background-color:#F2F2F2;
+	border:1px solid #F2F2F2;
+	font-size: 14px;
+}
+
+p.titleSub
+{
+	margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 30px;
+	text-align: center;
+}
+
+p.titleSubIntro
+{
+	text-align: center;
+    margin-right: 550px;
+	margin-top: 30px;
+    margin-bottom: 30px;
+	margin-left: 66px;
+}
+div.mypostlogo
+{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
